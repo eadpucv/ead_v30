@@ -1,0 +1,83 @@
+.pie {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: normal;
+	font-weight: normal;
+	color: #999999;
+
+}
+.titulo {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 150%;
+	font-weight: normal;
+	color: #6699FF;
+	line-height: normal;
+
+
+}
+.subtit {
+
+	font-family: "Times New Roman", Times, serif;
+	font-size: 115%;
+	font-weight: normal;
+	color: #6699FF;
+	line-height: 130%;
+}
+.breadcrums {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	line-height: normal;
+	font-weight: normal;
+	color: #6699FF;
+	font-variant: normal;
+
+}
+.submenu {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	line-height: 160%;
+	font-weight: normal;
+	color: #666666;
+}
+.parrafo {
+
+	font-family: Arial;
+	font-size: 80%;
+	line-height: 150%;
+	color: #666666;
+	text-align: justify;
+}
+.parrafoserif {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 70%;
+	line-height: 150%;
+	font-weight: normal;
+	color: #666666;
+	text-align: justify;
+
+}
+.titular {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-weight: lighter;
+	color: #CCCCCC;
+	line-height: normal;
+}
+.parrafo2 {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 75%;
+	line-height: 120%;
+	color: #666666;
+}
+.parrafoserif2 {
+
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 70%;
+	line-height: 180%;
+	font-weight: normal;
+	color: #666666;
+}
